@@ -1,0 +1,19 @@
+body {
+    padding: 10px;
+}
+
+
+.listing {
+    display: flex;
+    flex-direction: row;  
+    align-items: center;  
+    margin: 50px;
+    border: 1px solid grey;
+    cursor: pointer;
+}
+
+.card {
+    width: 35%;
+    align-items: center;
+}
+
